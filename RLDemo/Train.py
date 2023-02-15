@@ -214,4 +214,4 @@ class DQN_Main:
 
 if __name__ == '__main__':
     dqn = DQN_Main()
-    print(len(dqn.replay_buffer))
+    dqn.save_hyperparams()
