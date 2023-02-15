@@ -1,6 +1,5 @@
 import os.path
 import os
-# from collections import deque
 import torch
 import json
 from DQNModel import DQN
