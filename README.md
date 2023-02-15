@@ -14,7 +14,7 @@ This environment is in a 4*4 grid world, where there is an RL controlled taxi an
 ![Taxi](https://user-images.githubusercontent.com/62451645/218910068-3f825b4b-9513-4739-8627-50d1f6ae583c.png)
 
 
-Below is a short video to demonstrate the performance of the trained RL agent.
+Below is a short video to demonstrate the performance of the trained RL agent, where yellow is the taxi, red is the passenger, and green is the destination.
 
 https://user-images.githubusercontent.com/62451645/218911226-0fb7654d-fb1e-42c9-824d-e556cdc1fb0f.mp4
 
